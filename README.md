@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DesBoe
 - 👀 I’m interested in butterflies and moths
 - 🌱 I’m currently learning python and designing PCBs
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dennis.boettger@uni-jena.de
 - ⚡ Fun fact: there is no fun :/
 
